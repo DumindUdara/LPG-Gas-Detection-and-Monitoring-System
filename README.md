@@ -1,8 +1,10 @@
 # LPG-Gas-Detection-and-Monitoring-System
 
-** The Problem:** Gas leaks pose a serious threat, leading to explosions, fires, and carbon monoxide poisoning. Early detection is crucial for preventing tragedies.
+### The Problem 
+    Gas leaks pose a serious threat, leading to explosions, fires, and carbon monoxide poisoning. Early detection is crucial for preventing tragedies.
 
-️ Our Solution: We built a system that continuously monitors for LPG leaks using a reliable MQ6 gas sensor. The sensor relays data to a PIC16F877A microcontroller, which analyzes the readings and calculates the LPG concentration in parts per million (PPM).
+️### Our Solution
+    We built a system that continuously monitors for LPG leaks using a reliable MQ6 gas sensor. The sensor relays data to a PIC16F877A microcontroller, which analyzes the readings and calculates the LPG     concentration in parts per million (PPM).
 
 ** Key Features:**
 
