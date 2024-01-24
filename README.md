@@ -28,3 +28,4 @@ We built a system that continuously monitors for LPG leaks using a reliable MQ6 
 We're excited to explore further development possibilities, such as integrating smart home automation features for automatic gas valve shut-off or emergency response notification.
 
 
+![Screenshot 2024-01-24 164720](https://github.com/DumindUdara/LPG-Gas-Detection-and-Monitoring-System/assets/98957798/de5b9d74-5000-451e-8749-e9636ec2f276)
