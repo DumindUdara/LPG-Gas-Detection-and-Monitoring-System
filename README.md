@@ -16,8 +16,11 @@ We built a system that continuously monitors for LPG leaks using a reliable MQ6 
 
 ### Software & Hardware
 
-Coding: We programmed the system using Micro C, ensuring efficient and accurate data processing.
-Circuit Design: The system's hardware schematic was meticulously designed using Proteus simulation software.
+#### Coding: 
+    We programmed the system using Micro C, ensuring efficient and accurate data processing.
+#### Circuit Design: 
+    The system's hardware schematic was meticulously designed using Proteus simulation software.
+    
 Impact: This project goes beyond academics. It offers a practical solution for enhancing home safety and potentially saving lives. We're proud to have contributed to a project with such real-world impact.
 
 ### ➡️ Next Steps: 
