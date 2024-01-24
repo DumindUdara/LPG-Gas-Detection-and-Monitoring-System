@@ -21,7 +21,8 @@ We built a system that continuously monitors for LPG leaks using a reliable MQ6 
 #### Circuit Design: 
     The system's hardware schematic was meticulously designed using Proteus simulation software.
     
-Impact: This project goes beyond academics. It offers a practical solution for enhancing home safety and potentially saving lives. We're proud to have contributed to a project with such real-world impact.
+💡 Impact: 
+This project goes beyond academics. It offers a practical solution for enhancing home safety and potentially saving lives. We're proud to have contributed to a project with such real-world impact.
 
 ### ➡️ Next Steps: 
 We're excited to explore further development possibilities, such as integrating smart home automation features for automatic gas valve shut-off or emergency response notification.
