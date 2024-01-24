@@ -14,7 +14,7 @@ We built a system that continuously monitors for LPG leaks using a reliable MQ6 
 #### Customizable alarms: 
     Set programmable alarm thresholds based on safety guidelines. The system triggers visual and audible alerts once LPG levels exceed safe limits.
 
-### Software & Hardware
+### 👩‍💻 Software & Hardware
 
 #### Coding: 
     We programmed the system using Micro C, ensuring efficient and accurate data processing.
